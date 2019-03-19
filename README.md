@@ -9,3 +9,8 @@ These were the questions I was asked in the Microsoft Interview and Coding Round
    Input : 1->2->3->4->5->6
    Output: 1->6->3->2->6->5
 
+## Interview 
+
+1. Given an Array which represents the stock prices at contiguous time steps, find two points to buy and sell(in the same order)
+such that the profits are maximum.
+
