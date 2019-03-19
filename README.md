@@ -13,4 +13,5 @@ These were the questions I was asked in the Microsoft Interview and Coding Round
 
 1. Given an Array which represents the stock prices at contiguous time steps, find two points to buy and sell(in the same order)
 such that the profits are maximum.
+2. Given a Binary Tree, check if it is Binary Search Tree.
 
